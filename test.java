@@ -3,4 +3,8 @@ public test class{
 	public static void main(){
 		System.out.println("这是测试");
 	}
+
+	public String test1(){
+		System.out.println("这是新增方法");
+	}
 }
