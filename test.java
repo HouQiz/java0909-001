@@ -5,6 +5,6 @@ public test class{
 	}
 
 	public String test1(){
-		System.out.println("这是新增方法");
+		System.out.println("这是新增方法水电费水电费");
 	}
 }
